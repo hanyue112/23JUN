@@ -1,0 +1,11 @@
+C:\Users\adm-ili\source\repos\ThreadResourcePool\bin\Debug\ThreadResourcePool.exe.config
+C:\Users\adm-ili\source\repos\ThreadResourcePool\bin\Debug\ThreadResourcePool.exe
+C:\Users\adm-ili\source\repos\ThreadResourcePool\bin\Debug\ThreadResourcePool.pdb
+C:\Users\adm-ili\source\repos\ThreadResourcePool\obj\Debug\ThreadResourcePool.csproj.CoreCompileInputs.cache
+C:\Users\adm-ili\source\repos\ThreadResourcePool\obj\Debug\ThreadResourcePool.exe
+C:\Users\adm-ili\source\repos\ThreadResourcePool\obj\Debug\ThreadResourcePool.pdb
+C:\Users\adm-ili\source\repos\ThreadResourcePool\bin\Debug\nunit.framework.dll
+C:\Users\adm-ili\source\repos\ThreadResourcePool\bin\Debug\nunit.framework.xml
+C:\Users\adm-ili\source\repos\ThreadResourcePool\obj\Debug\ThreadResourcePool.csproj.CopyComplete
+C:\Users\ili\Desktop\ThreadResourcePool\obj\Debug\ThreadResourcePool.exe
+C:\Users\ili\Desktop\ThreadResourcePool\obj\Debug\ThreadResourcePool.pdb

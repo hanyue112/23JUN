@@ -1,0 +1,15 @@
+C:\Users\adm-ili\source\repos\ConsoleApp6\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Users\adm-ili\source\repos\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\adm-ili\source\repos\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\adm-ili\source\repos\ConsoleApp6\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\adm-ili\source\repos\ConsoleApp6\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\adm-ili\source\repos\ConsoleApp6\bin\Debug\nunit.engine.dll
+C:\Users\adm-ili\source\repos\ConsoleApp6\bin\Debug\nunit.engine.api.dll
+C:\Users\adm-ili\source\repos\ConsoleApp6\bin\Debug\nunit.engine.core.dll
+C:\Users\adm-ili\source\repos\ConsoleApp6\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\adm-ili\source\repos\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\adm-ili\source\repos\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\adm-ili\source\repos\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\adm-ili\source\repos\ConsoleApp6\bin\Debug\nunit.framework.dll
+C:\Users\adm-ili\source\repos\ConsoleApp6\bin\Debug\nunit.framework.xml
+C:\Users\adm-ili\source\repos\ConsoleApp6\obj\Debug\Tree.csproj.CopyComplete
