@@ -6,13 +6,13 @@ namespace Tree
     {
         private readonly TreeNode parent;
         private readonly List<TreeNode> children = new List<TreeNode>();
-        public int data { get; set; }
+        public int Data { get; set; }
 
         public TreeNode(TreeNode Parent, int Data)
         {
             parent = Parent;
             parent?.AddChild(this);
-            data = Data;
+            this.Data = Data;
         }
 
         private void AddChild(TreeNode n)
@@ -25,7 +25,7 @@ namespace Tree
             int _subTotal = 0;
             if (children.Count == 0)
             {
-                return data;
+                return Data;
             }
             else
             {
@@ -33,7 +33,7 @@ namespace Tree
                 {
                     _subTotal += n.Sum();
                 }
-                return _subTotal + data;
+                return _subTotal + Data;
             }
         }
     }

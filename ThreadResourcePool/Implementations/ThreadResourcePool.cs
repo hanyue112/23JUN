@@ -25,7 +25,7 @@ namespace ThreadResourcePool
         {
             CancellationToken token = (CancellationToken)obj;
 
-            while (true && !token.IsCancellationRequested) // Schedule from the waiting list first
+            while (!token.IsCancellationRequested) // Schedule from the waiting list first
             {
                 for (int i = 0; i < _waitingWorkItems.Count; i++)
                 {
@@ -136,11 +136,14 @@ namespace ThreadResourcePool
 
         public void QueueUserWorkItem(WaitCallback callBack, object state, List<string> request)
         {
+            List<string> snapshot = new List<string>();
+            snapshot.AddRange(request);
+
             WorkItem work = new WorkItem
             {
                 CallBack = callBack,
                 State = state,
-                Request = request.AsReadOnly()
+                Request = snapshot.AsReadOnly()
             };
             _pendingWorkItems.Add(work); //Return at once
         }
